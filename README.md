@@ -15,7 +15,7 @@ This project was carried out at the UMONS Faculty of Engineering in April-May 20
 
 ## Video
 
-[Discovery of the DSDB](https://www.youtube.com/watch?v=NnRzQJP9k2Y)
+Please look at [Discovery of the DSDB](https://www.youtube.com/watch?v=NnRzQJP9k2Y)
 
 ## Authors
 
