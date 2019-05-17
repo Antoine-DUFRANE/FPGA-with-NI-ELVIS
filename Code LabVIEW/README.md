@@ -3,7 +3,10 @@
 ## Contents
 This folder contents all the code files required for the realisation of this tutorial 
 
-## Provided materials
+## Files extension
+
+* **".lvproj"** file is the main file project; 
+* **".vi"** files are the different code diagrams. 
     
 ## Authors
 
